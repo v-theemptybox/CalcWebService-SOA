@@ -18,9 +18,29 @@ namespace CalculatorWS
     {
 
         [WebMethod]
-        public string HelloWorld()
+        public double add(double a, double b)
         {
-            return "Hello World";
+            return a + b;
         }
+
+        [WebMethod]
+        public double subtract(double a, double b)
+        {
+            return a - b;
+        }
+
+        [WebMethod]
+        public double multiply(double a, double b)
+        {
+            return a * b;
+        }
+
+        [WebMethod]
+        public double divide(double a, double b)
+        {
+            if (b == 0) throw new Exception("divide by zero");
+            return a / b;
+        }
+
     }
 }
