@@ -16,6 +16,5 @@ namespace CsWebService_client
         {
             InitializeComponent();
         }
-
     }
 }
