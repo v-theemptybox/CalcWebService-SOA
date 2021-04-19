@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWS", "CalculatorWS\CalculatorWS.csproj", "{7851015B-13D1-454C-879C-9A762EA9528F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsWebService-client", "CsWebService-client\CsWebService-client.csproj", "{91FD5D56-D5C1-4757-AE34-7716E1BAC1F4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7851015B-13D1-454C-879C-9A762EA9528F} = {7851015B-13D1-454C-879C-9A762EA9528F}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
