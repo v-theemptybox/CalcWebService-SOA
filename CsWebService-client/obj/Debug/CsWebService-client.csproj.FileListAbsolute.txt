@@ -1,0 +1,10 @@
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\bin\Debug\CsWebService-client.exe.config
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\bin\Debug\CsWebService-client.exe
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\bin\Debug\CsWebService-client.pdb
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\obj\Debug\CsWebService-client.csprojAssemblyReference.cache
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\obj\Debug\CsWebService_client.Properties.Resources.resources
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\obj\Debug\CsWebService_client.WebServiceClient.resources
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\obj\Debug\CsWebService-client.csproj.GenerateResource.cache
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\obj\Debug\CsWebService-client.csproj.CoreCompileInputs.cache
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\obj\Debug\CsWebService-client.exe
+D:\iuh\SA\WebService-SOAP\CalcWebService-SOA\CsWebService-client\obj\Debug\CsWebService-client.pdb
